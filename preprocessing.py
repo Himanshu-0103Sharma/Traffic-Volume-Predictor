@@ -1,3 +1,7 @@
+# Title : Preprocessing the data
+# Date : 05-02-2025
+# Author : Himanshu Sharma (himanshu.0103sharma@gmail.com)
+
 import numpy as np # For numerical computation
 from scipy.io import loadmat # For reading MATLAB dataset
 from sklearn.preprocessing import MinMaxScaler # For normalizing data

@@ -1,6 +1,6 @@
 # Title : Output prediction; Comparing the model output with the actual output
 # Date : 22/02/2025
-# Author : Himanshu Sharm (himanshu.0103sharma@gmail.com)
+# Author : Himanshu Sharma (himanshu.0103sharma@gmail.com)
 
 import numpy as np # for numerical operations
 import tensorflow as tf # machine learning framework
